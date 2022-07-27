@@ -16,4 +16,10 @@
   - Codigo em python mostrando que essas operações consistem em somas e subtrações repetidas
   
 ### Simulador Refeito
-  - Codigo em C do simulador. Foi recebido um arquivo incompleto que foi sendo completado durante as aulas da disciplina
+  - Codigo em C do simulador 
+  - Foi recebido um arquivo incompleto que foi sendo completado durante as aulas da disciplina
+  
+### ULAS
+  - Pasta contendo desenhos de um somador e duas ulas
+  - Um somador é um componente que realiza a operação de soma com portas lógicas
+  - Há 2 desenhos de ULAs, o primeiro sendo uma ULA que soma e o segundo uma ULA que soma e subtrai
