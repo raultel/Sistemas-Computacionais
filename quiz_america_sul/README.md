@@ -8,6 +8,7 @@
 
 ## Como jogar
 * O jogo é simples, basta escrever o nome de todos os países da America do Sul, o jogador que conseguir escrever todos eles vence
+* [Vídeo ensinando a jogar](https://www.youtube.com/watch?v=x9bu1s1Fp6Y)
 
 ## Como executar o jogo
 ### Windows
